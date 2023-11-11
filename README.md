@@ -15,7 +15,7 @@ iwr https://deno.land/x/install/install.ps1 -useb | iex
 
 **Install Leaf**
 ```sh
-deno install -f -A -n leaf https://raw.githubusercontent.com/leaf-min/main/leaf.min.js
+deno install -f -A -n leaf https://github.com/jindalujjwal0720/leaf-min/blob/1afc4a4b945df2bae869dd4fd5c77f6582ca2e97/leaf.min.js
 ```
 
 **set PATH in environment variables**
