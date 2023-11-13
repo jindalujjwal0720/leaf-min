@@ -1,5 +1,9 @@
 # Leaf Programming Language Syntaxes
 
+## Code Editor
+
+Try running the language at [Leaf Editor](https://jindalujjwal0720.github.io/leaf-editor)
+
 ## Introduction
 
 `Leaf` is a programming language that is designed to be easy to learn and use. It is a `high-level language` that is compiled to `JavaScript` and then compiled to machine code. It is designed to be a general-purpose language, but it is also designed to be easy to use for `beginners`. It is designed to be easy to learn and use, but it is also designed to be powerful enough to be used for basic codes.
